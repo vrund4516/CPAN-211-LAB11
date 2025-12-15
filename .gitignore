@@ -1,0 +1,16 @@
+# Maven
+/target/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.build-impl.xml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
